@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "AFKBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": " BlueHavenSMP.aternos.me ",
+    "ip": "BlueHavenSMP.aternos.me",
     "port": 12918,
     "version": "1.21.11"
   },
